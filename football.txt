@@ -1,3 +1,15 @@
+##.bet-button
+##.bet-odd
+##.bet-box
+##a[href^="https://vk.com/share.php"]
+##a[href^="https://connect.ok.ru/offer?url="]
+##.share-button
+pimpletv.ru##.clearfix.footer-content
+pimpletv.ru##h2
+pimpletv.ru##p
+/*betcity$image
+||themoneytizer.com^
+||consensu.org^$3p
 ###chat-desktop
 ###hmMainSlider > .league-name > div > p > .list-bet
 ###myModal
