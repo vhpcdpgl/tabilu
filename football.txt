@@ -11,6 +11,8 @@
 ##.bet-odd
 ##.bet-box
 ##.banner-link
+##.btn-greenyellow
+##.hot
 ##.modal-dialog
 ##.show.fade.modal-backdrop
 ###overlay
