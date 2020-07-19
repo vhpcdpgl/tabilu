@@ -6,6 +6,9 @@
 ##.bet-button
 ##.bet-odd
 ##.bet-box
+##.banner-link
+##.modal-dialog
+###overlay
 ##a[href^="https://vk.com/share.php"]
 ##a[href^="https://connect.ok.ru/offer?url="]
 ##.share-button
