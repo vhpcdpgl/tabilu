@@ -22,6 +22,7 @@ pimpletv.ru###mc-link
 /cackle.js$script,important
 ||trafficdok.com^
 ##div[id="edrzm1vzh5c"]
+||pimpletv.ru/bets/*
 ###chat-desktop
 ###hmMainSlider > .league-name > div > p > .list-bet
 ###myModal
