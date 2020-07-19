@@ -14,10 +14,13 @@ pimpletv.ru##h2
 pimpletv.ru##p
 pimpletv.ru##div.articles_i
 pimpletv.ru###mc-link
-/*betcity$image
+||pimpletv.ru/*betcity$image
 ||themoneytizer.com^
-||consensu.org^$3p
+||consensu.org^
+||lt38.ru^
 ##[href="http://r.lt38.ru/DkVLy:6528/brending"]
+/cackle.js$script,important
+||trafficdok.com^
 ##div[id="edrzm1vzh5c"]
 ###chat-desktop
 ###hmMainSlider > .league-name > div > p > .list-bet
