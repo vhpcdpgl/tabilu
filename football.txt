@@ -79,6 +79,7 @@ pimpletv.ru###mc-link
 ##.close-ads
 ##.close-ads-player
 ##.close-ballon-pc
+##div.banners
 ##.divdatcuoc
 ##.float-left
 ##.float-right
@@ -88,6 +89,10 @@ pimpletv.ru###mc-link
 ##.in.fade.modal-backdrop
 ##.lazy
 ##.list_comment
+##.m-text-link
+##.m_mobile
+##.m_desktop
+##.text_mobile_link
 ##.m_disreponsive
 ##.m_disreponsive under_menu
 ##.m_reponsive under_menu
