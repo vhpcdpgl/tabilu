@@ -1,5 +1,8 @@
-! Title: vhpcdpgl football
+! Title: vhpcdpgl_football
 ! Description: football filter rules
+##.lazyloaded
+##.textwidget
+##.flash-yellow
 ##.bet-button
 ##.bet-odd
 ##.bet-box
