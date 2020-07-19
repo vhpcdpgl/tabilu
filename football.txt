@@ -8,6 +8,7 @@
 ##.bet-box
 ##.banner-link
 ##.modal-dialog
+##.show.fade.modal-backdrop
 ###overlay
 ##a[href^="https://vk.com/share.php"]
 ##a[href^="https://connect.ok.ru/offer?url="]
