@@ -1,5 +1,8 @@
 ! Title: vhpcdpgl_football
 ! Description: football filter rules
+##.AdsDesktop-header
+###med_rec_banner22
+###med_rec_banner2
 ##.lazyloaded
 ##.textwidget
 ##.flash-yellow
