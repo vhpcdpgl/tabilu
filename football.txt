@@ -19,7 +19,7 @@
 ##.show.fade.modal-backdrop
 ###overlay
 ##a[href^="https://vk.com/share.php"]
-##a[href^="https://connect.ok.ru/offer?url="]
+##a[href^="https://connect.ok.ru/"]
 ##.share-button
 pimpletv.ru##.clearfix.footer-content
 pimpletv.ru##h2
@@ -31,7 +31,7 @@ pimpletv.ru###mc-link
 ||consensu.org^
 ||lt38.ru^
 ||cackle.me^$third-party
-##[href="http://r.lt38.ru/DkVLy:6528/brending"]
+##[href^="http://r.lt38.ru/"]
 /cackle.js$script,important
 ||trafficdok.com^
 ##div[id="edrzm1vzh5c"]
