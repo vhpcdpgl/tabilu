@@ -4,6 +4,7 @@
 ##.AdsDesktop-header
 ###med_rec_banner22
 ###med_rec_banner2
+/ads/*.mp4$media
 ##.lazyloaded
 ##.textwidget
 ##.flash-yellow
