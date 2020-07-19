@@ -127,7 +127,6 @@ sv88.com$popup
 sv88.com$third-party
 ||assets-jpcust.jwpsrv.com/watermarks/CGx2uYko.png$image
 ||banthang.tv/*ads.css
-||bongda365.tv/video/*$media
 ||bongda365.vip/video/$media
 ||i.imgur.com/SGPkL2n.jpg$image
 ||i.imgur.com^*.gif$domain=binhluan.live
