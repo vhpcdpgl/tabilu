@@ -29,6 +29,7 @@ pimpletv.ru###mc-link
 ||themoneytizer.com^
 ||consensu.org^
 ||lt38.ru^
+||cackle.me^$third-party
 ##[href="http://r.lt38.ru/DkVLy:6528/brending"]
 /cackle.js$script,important
 ||trafficdok.com^
