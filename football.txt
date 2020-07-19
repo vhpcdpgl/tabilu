@@ -1,6 +1,7 @@
 ! Title: vhpcdpgl_football
 ! Description: football filter rules
 ://ads.livetv*.me
+##.afs_ads
 ##.AdsDesktop-header
 ###med_rec_banner22
 ###med_rec_banner2
