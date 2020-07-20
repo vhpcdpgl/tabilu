@@ -2,7 +2,7 @@
 ! Description: football filter rules
 ://ads.livetv*.me
 ###chat-desktop
-###hmMainSlider > .league-name > div > p > .list-bet
+###.list-bet
 ###med_rec_banner2
 ###med_rec_banner22
 ###myModal
@@ -64,8 +64,6 @@
 ##.hot
 ##.hot-menu
 ##.in.fade.modal-backdrop
-##.lazy
-##.lazyloaded
 ##.list_comment
 ##.m-text-link
 ##.m_desktop
@@ -93,8 +91,6 @@
 ##a[href^="https://vk.com/share.php"]
 ##div.banners
 ##div[id="edrzm1vzh5c"]
-##li:nth-of-type(4)
-##li:nth-of-type(5)
 ##ul > li > a[href*="?utm_source=tructiepbongda.vip"]
 .club/ads$image
 .com/ads$image
