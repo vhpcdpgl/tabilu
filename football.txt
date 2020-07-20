@@ -87,6 +87,7 @@
 ##[class^="ballon-"]
 ##[class^="float-"]
 ##[href^="http://r.lt38.ru/"]
+##a[href*="/ads/"]
 ##a[href^="https://connect.ok.ru/"]
 ##a[href^="https://vk.com/share.php"]
 ##a[href^="https://bongda365.vip/ads/"]
