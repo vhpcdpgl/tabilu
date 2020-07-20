@@ -89,6 +89,8 @@
 ##[href^="http://r.lt38.ru/"]
 ##a[href^="https://connect.ok.ru/"]
 ##a[href^="https://vk.com/share.php"]
+##a[href^="https://bongda365.vip/ads/"]
+##a[href^="https://static.xemchuatv.net/ads/"]
 ##div.banners
 ##div[id="edrzm1vzh5c"]
 ##ul > li > a[href*="?utm_source=tructiepbongda.vip"]
@@ -117,7 +119,7 @@ sv88.com$third-party
 ||assets-jpcust.jwpsrv.com/watermarks/CGx2uYko.png$image
 ||banthang.tv/*ads.css
 ||bongda365.vip/video/$media
-||bongda365.vip##.lazy
+||bongda365.vip##[class="lazy"]
 ||cackle.me^$third-party
 ||cdn.*.com/libs/b.js|$third-party,script
 ||consensu.org^
