@@ -9,6 +9,7 @@
 ###banner_FloatRight
 ###banner_Supper
 ###bannertop
+###btn-bet
 ###chat-desktop
 ###fancybox-overlay
 ###fancybox-wrap
@@ -81,6 +82,7 @@
 ##.box_detail_video_right
 ##.box_detail_video_text
 ##.box_sponsor
+##.btn_chat
 ##.btn-greenyellow
 ##.btn_cuoc
 ##.button-bet
