@@ -1,6 +1,7 @@
 ! Title: vhpcdpgl_football
 ! Description: football filter rules
 ://ads.livetv*.me
+/files/q-c$image
 ###chat-desktop
 ###.list-bet
 ###med_rec_banner2
@@ -16,8 +17,10 @@
 ##.BannerStickyRight_content
 ##.adAboveBottom
 ##.adBot
+##.ads-menu-mobile
 ##.adsInMatch
 ##.adsInPlayer
+##.adsMobile
 ##.adsPlayerBanner
 ##.ads_detail
 ##.adsbygoogle-head
@@ -25,6 +28,8 @@
 ##.afs_ads
 ##.alignRight.box_detail_video_leftMenu
 ##.ballon-bottom
+##.banner-catfish_1
+##.banner-close
 ##.ballon-left
 ##.ballon-left-pc
 ##.ballon-mobile
@@ -55,6 +60,8 @@
 ##.close-ads
 ##.close-ads-player
 ##.close-ballon-pc
+##.closeAds_mb
+##.div_banner
 ##.divdatcuoc
 ##.flash-yellow
 ##.float-left
@@ -73,6 +80,7 @@
 ##.m_reponsive under_menu
 ##.modal-dialog
 ##.popup-ads-banner
+##.right-banners
 ##.share-button
 ##.show-ads
 ##.show-ads-banner
@@ -84,6 +92,7 @@
 ##.under-h1
 ##.under-h1 > .inner_header
 ##.under-player
+##.widget-ads
 ##[class^="ballon-"]
 ##[class^="float-"]
 ##[href^="http://r.lt38.ru/"]
