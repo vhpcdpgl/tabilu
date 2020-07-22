@@ -57,6 +57,9 @@
 ##.ads_block_header
 ##.ads_detail
 ##.ads_left
+##.ads-right
+##.ads-single
+##.ads-double
 ##.ads_sticky_bottom
 ##.adsballon
 ##.adsbygoogle-head
@@ -174,10 +177,8 @@
 ##[id^="bn_bottom_fixed_"]
 ##a.btn.mlt-btn-watch:nth-of-type(4)
 ##a[href*="/ads/"]
-##a[href^="https://ads.sporttv.today?code=adsButtonCuoc"]
-##a[href^="https://bongda365.vip/ads/"]
+##a[href*="/ads."]
 ##a[href^="https://connect.ok.ru/"]
-##a[class="ads-single"]
 ##a[href^="https://vk.com/share.php"]
 ##blink
 ##div.banners
