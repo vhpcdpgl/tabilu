@@ -96,7 +96,6 @@
 ##.box_input_comment
 ##.box_sponsor
 ##.btn-greenyellow
-##.btn-primary
 ##.btn-primary.btn-odds-primary
 ##.btn-primary.btn-yellow
 ##.btn_chat
