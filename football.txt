@@ -108,6 +108,7 @@
 ##.hot-menu
 ##.img_rec_banner
 ##.in.fade.modal-backdrop
+##.lazyloaded
 ##.leftAdsBanner
 ##.list_comment
 ##.m-text-link
