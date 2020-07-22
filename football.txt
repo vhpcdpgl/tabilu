@@ -177,7 +177,7 @@
 ##a[href^="https://ads.sporttv.today?code=adsButtonCuoc"]
 ##a[href^="https://bongda365.vip/ads/"]
 ##a[href^="https://connect.ok.ru/"]
-##a[href^="https://static.xemchuatv.net/ads/"]
+##a[class="ads-single"]
 ##a[href^="https://vk.com/share.php"]
 ##blink
 ##div.banners
