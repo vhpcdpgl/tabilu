@@ -11,6 +11,7 @@
 ###bannertop
 ###btn-bet
 ###chat-desktop
+###div.chat-player
 ###fancybox-overlay
 ###fancybox-wrap
 ###fl813691
@@ -71,6 +72,7 @@
 ##.banner-catfish_1
 ##.banner-close
 ##.banner-link
+##.banner-show
 ##.banner-top
 ##.banner-top-vip
 ##.banner-under-player
@@ -94,6 +96,8 @@
 ##.box_input_comment
 ##.box_sponsor
 ##.btn-greenyellow
+##.btn-primary
+##.btn-primary.btn-odds-primary
 ##.btn-primary.btn-yellow
 ##.btn_chat
 ##.btn_cuoc
