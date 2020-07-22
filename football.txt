@@ -127,7 +127,6 @@
 ##.hot-menu
 ##.img_rec_banner
 ##.in.fade.modal-backdrop
-##.lazyloaded
 ##.left-banners
 ##.leftAdsBanner
 ##.list_banner_top_header
