@@ -13,11 +13,14 @@
 ###banner_Supper
 ###bannertop
 ###btn-bet
+###chat-column
 ###chat-desktop
+###chatMobile
 ###div.chat-player
 ###fancybox-overlay
 ###fancybox-wrap
 ###fl813691
+###gbbtn
 ###lc-girl-block-en_2
 ###left_float
 ###left_sticky_ads
@@ -49,7 +52,10 @@
 ##.BannerStickyRight_content
 ##.a-ads-top-chat
 ##.adAboveBottom
+##.adBlowTop
 ##.adBot
+##.adLogo
+##.adLogoBot
 ##.adTop
 ##.ads-block-warning
 ##.ads-double
@@ -65,6 +71,7 @@
 ##.adsMobile
 ##.adsPlayerBanner
 ##.ads_area_01
+##.ads_area_02
 ##.ads_area_03
 ##.ads_area_04
 ##.ads_block_header
@@ -119,6 +126,7 @@
 ##.buttonNCL
 ##.buttonSkipAds
 ##.center-banners
+##.chat-body
 ##.chat-popup
 ##.close-ads
 ##.close-ads-player
@@ -128,6 +136,7 @@
 ##.closeAds_mb
 ##.comment_live
 ##.content_live
+##.count-down-close-ads
 ##.div_banner
 ##.divdatcuoc
 ##.facebook_commnet
@@ -183,10 +192,11 @@
 ##.widget-ads
 ##[class^="ballon-"]
 ##[class^="float-"]
+##[href*=".gamefb88."]
+##[href*=".zbet."]
 ##[href^="http://r.lt38.ru/"]
 ##[href^="http://www.sbbanner.com/"]
 ##[href^="https://r88.vn/"]
-##[href^="https://zbet.vn/"]
 ##[id^="balloonads"]
 ##[id^="bn_bottom_fixed_"]
 ##a.btn.mlt-btn-watch:nth-of-type(4)
