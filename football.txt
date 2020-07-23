@@ -16,6 +16,7 @@
 ###chat-column
 ###chat-desktop
 ###chatMobile
+###comments
 ###div.chat-player
 ###fancybox-overlay
 ###fancybox-wrap
@@ -118,6 +119,7 @@
 ##.btn-greenyellow
 ##.btn-primary.btn-odds-primary
 ##.btn-primary.btn-yellow
+##.btn-secondary.btn
 ##.btn_chat
 ##.btn_cuoc
 ##.button-bet
@@ -152,6 +154,7 @@
 ##.hidechat
 ##.hot
 ##.hot-menu
+##.hz-ads
 ##.img_rec_banner
 ##.in.fade.modal-backdrop
 ##.left-banners
@@ -193,10 +196,10 @@
 ##[class^="ballon-"]
 ##[class^="float-"]
 ##[href*=".gamefb88."]
+##[href*=".sbbanner."]
 ##[href*=".zbet."]
+##[href*="/r88."]
 ##[href^="http://r.lt38.ru/"]
-##[href^="http://www.sbbanner.com/"]
-##[href^="https://r88.vn/"]
 ##[id^="balloonads"]
 ##[id^="bn_bottom_fixed_"]
 ##a.btn.mlt-btn-watch:nth-of-type(4)
