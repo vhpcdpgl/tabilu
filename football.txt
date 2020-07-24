@@ -1,5 +1,7 @@
 ! Title: vhpcdpgl_football
 ! Description: football filter rules
+! Expires: 1 hours (update frequency)
+! Bộ lọc này được tạo ra để giúp người dùng ít gặp quảng cáo hơn khi xem các trận bóng đá trực tuyến.
 ###.list-bet
 ###ad-d1
 ###ad-d2
@@ -192,8 +194,10 @@
 ##.top-banner
 ##.tv-ads-1
 ##.tv-block-ads
+##.uk-margin
 ##.uk-position-relative
 ##.uk-width-1-1
+##.uk-width-1-3\@m
 ##.under-h1
 ##.under-h1 > .inner_header
 ##.under-player
@@ -208,10 +212,14 @@
 ##[href*=".zbet."]
 ##[href*="/r88."]
 ##[href*="11bet."]
+##[href*="388bet."]
+##[href*="789club."]
 ##[href*="8live."]
 ##[href*="bong99."]
 ##[href*="dbet."]
 ##[href*="fabet."]
+##[href*="lucky88."]
+##[href*="mibet88."]
 ##[href*="one88."]
 ##[href*="taimacau."]
 ##[href*="zbet."]
