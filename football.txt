@@ -250,11 +250,11 @@ sv88.com$third-party
 ||i.imgur.com^*.gif$domain=binhluan.live
 ||lt38.ru^
 ||mc.webvisor.org^
-||media.giphy.com/media/$image,domain=bongda365.vip
-||media.giphy.com/media/$image,domain=thevang.tv|ngoac.tv|thevangtv.com|vaoroi.tv|dabong.net|banthang.tv|ibongda.vip|tructiepbongda.vip|bongda365.vip
+||content.banthang.live/*.gif$image
+||media.giphy.com/media/$image,domain=thevang.tv|ngoac.tv|thevangtv.com|vaoroi.tv|dabong.net|banthang.live|ibongda.vip|tructiepbongda.vip|bongda365.vip
 ||pimpletv.ru/*betcity$image
 ||pimpletv.ru/bets/*
 ||sv88.com^
 ||themoneytizer.com^
 ||trafficdok.com^
-||upsieutoc.com^*.gif$domain=bongda365.vip
+||upsieutoc.com^*.gif$domain=bongda365.vip|banthang.live
