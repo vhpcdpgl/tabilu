@@ -244,6 +244,7 @@
 .xyz/ads$image
 /*banner*.gif$image
 /ads/*.mp4$media
+/bet-football$image
 /cackle.js$script,important
 /files/q-c$image
 ://ads.livetv*.me
