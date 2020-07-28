@@ -264,11 +264,12 @@ sv88.com$popup
 sv88.com$third-party
 ||assets-jpcust.jwpsrv.com/watermarks/CGx2uYko.png$image
 ||banthang.vip/*ads.css
+||bongda365.vip/ads/^
 ||bongda365.vip##[class="lazy"]
 ||bongda365.vip/video/$media
 ||cackle.me^$third-party
 ||cdn.*.com/libs/b.js|$third-party,script
-||clipbongda.info/*.mp4$media
+||clipbongda.info^
 ||consensu.org^
 ||content.banthang.live/*.gif$image
 ||i.imgur.com/SGPkL2n.jpg$image
