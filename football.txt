@@ -231,6 +231,12 @@
 ##a[href^="https://connect.ok.ru/"]
 ##a[href^="https://vk.com/share.php"]
 ##blink
+##div[class^="ad_"]
+##div[class^="ads_"]
+##div[class^="adv_"]
+##div[id^="ad_"]
+##div[id^="ads_"]
+##div[id^="adv_"]
 ##div.banners
 ##div.footer-banner
 ##div[id="edrzm1vzh5c"]
