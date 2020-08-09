@@ -2218,6 +2218,7 @@
 ||zeus365.bet^
 ||zo.club^
 ||zo.game^
+||zowinvn.vip^
 ||zooappasla.com^
 ||zoogofo.com^
 ||zsc319.com^
@@ -4437,6 +4438,7 @@
 0.0.0.0 zeus365.bet
 0.0.0.0 zo.club
 0.0.0.0 zo.game
+0.0.0.0 zowinvn.vip
 0.0.0.0 zooappasla.com
 0.0.0.0 zoogofo.com
 0.0.0.0 zsc319.com
