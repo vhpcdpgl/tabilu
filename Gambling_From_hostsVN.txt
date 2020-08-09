@@ -1,3 +1,7 @@
+! Title: vhpcdpgl_gambling
+! Description: Gambling in VN filter rules
+! Expires: 1 hours (update frequency)
+! Bộ lọc này được tạo ra từ nguồn hostsVN để giúp người dùng chặn quảng cáo cá độ trực tuyến.
 ||000k8.com^
 ||027copy.com^
 ||066-365.com^
