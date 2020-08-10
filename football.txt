@@ -54,6 +54,7 @@
 ##.BannerStickyRight
 ##.BannerStickyRight_content
 ##.a-ads-top-chat
+##.about_home
 ##.adAboveBottom
 ##.adBlowTop
 ##.adBot
