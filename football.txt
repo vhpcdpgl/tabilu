@@ -264,7 +264,7 @@
 ##div.banners
 ##div.footer-banner
 ##div[id="edrzm1vzh5c"]
-##img[data-src^="https://content.bongda365.vip/"]
+##img[data-src^="https://content.bongda365.vip/images/images/banner/"]
 .club/ads$image
 .com/ads$image
 .live/ads$image
