@@ -140,6 +140,7 @@
 ##.close-modal
 ##.closeAds_mb
 ##.comment_live
+##.content_bot_home
 ##.content_live
 ##.count-down-close-ads
 ##.div_banner
