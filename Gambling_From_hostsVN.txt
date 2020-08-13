@@ -752,11 +752,9 @@
 ||chokdeesudsud.com^
 ||cmukpla.com^
 ||cnnappasla.com^
-||co.uk^
 ||colourcee.com^
 ||colourher.com^
 ||colourhim.com^
-||com.hk^
 ||com3456.com^
 ||cometo188.com^
 ||cucipena.com^
@@ -2972,11 +2970,9 @@
 0.0.0.0 chokdeesudsud.com
 0.0.0.0 cmukpla.com
 0.0.0.0 cnnappasla.com
-0.0.0.0 co.uk
 0.0.0.0 colourcee.com
 0.0.0.0 colourher.com
 0.0.0.0 colourhim.com
-0.0.0.0 com.hk
 0.0.0.0 com3456.com
 0.0.0.0 cometo188.com
 0.0.0.0 cucipena.com
