@@ -251,11 +251,10 @@
 ##[href^="http://r.lt38.ru/"]
 ##[id^="balloonads"]
 ##[id^="bn_bottom_fixed_"]
-##a.btn.mlt-btn-watch:nth-of-type(4)
-##a[href*="?utm_source=tructiepbongda.vip"]
-##a[href^="https://connect.ok.ru/"]
-##a[href^="https://vk.com/share.php"]
-##a[id^="betplayer_"]
+##.btn.mlt-btn-watch:nth-of-type(4)
+##[href^="https://connect.ok.ru/"]
+##[href^="https://vk.com/share.php"]
+##[id^="betplayer_"]
 ##blink
 ##div.banners
 ##div.footer-banner
