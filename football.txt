@@ -316,3 +316,6 @@ sv88.com$third-party
 ||themoneytizer.com^
 ||trafficdok.com^
 ||upsieutoc.com^*.gif$domain=bongda365.vip|banthang.live|dabong.net
+##.close-ballon-left
+##.close-popup-all
+##.popup-all
