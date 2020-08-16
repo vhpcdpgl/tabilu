@@ -39,6 +39,7 @@
 ###quangcaomb
 ###right_float
 ###turnOffChat
+###wap_bottombanner
 ###xoilac-chat-container
 ##.AdsDesktop-header
 ##.BannerFixed
@@ -61,6 +62,7 @@
 ##.adLogo
 ##.adLogoBot
 ##.adTop
+##.ad_banners
 ##.ads
 ##.ads-block-warning
 ##.ads-double
@@ -124,6 +126,7 @@
 ##.btn-primary.btn-odds-primary
 ##.btn-primary.btn-yellow
 ##.btn-secondary.btn
+##.btn_bet
 ##.btn_chat
 ##.btn_cuoc
 ##.button-bet
@@ -136,9 +139,11 @@
 ##.chat-popup
 ##.close-ads
 ##.close-ads-player
+##.close-ballon-left
 ##.close-ballon-pc
 ##.close-banner
 ##.close-modal
+##.close-popup-all
 ##.closeAds_mb
 ##.comment_live
 ##.content_bot_home
@@ -167,6 +172,7 @@
 ##.list-bet
 ##.list_banner_top_header
 ##.list_comment
+##.logo-banner
 ##.m-text-link
 ##.m_desktop
 ##.m_disreponsive
@@ -183,6 +189,7 @@
 ##.only-pc-ads
 ##.pop-open
 ##.popup-ads-banner
+##.popup-all
 ##.right-banners
 ##.share-button
 ##.show-ads
@@ -242,7 +249,6 @@
 ##[href*="mibet88"]
 ##[href*="nagavip"]
 ##[href*="one88"]
-##[href*="sbo"]
 ##[href*="taimacau"]
 ##[href*="vn88"]
 ##[href*="vwin"]
@@ -316,6 +322,3 @@ sv88.com$third-party
 ||themoneytizer.com^
 ||trafficdok.com^
 ||upsieutoc.com^*.gif$domain=bongda365.vip|banthang.live|dabong.net
-##.close-ballon-left
-##.close-popup-all
-##.popup-all
