@@ -3,10 +3,13 @@
 ! Expires: 1 hours (update frequency)
 ! Bộ lọc này được tạo ra để giúp người dùng ít gặp quảng cáo hơn khi xem các trận bóng đá trực tuyến.
 ###.list-bet
+###ad
 ###ad-d1
 ###ad-d2
+###adSkip
 ###adsModal
 ###adsSkipCountdown
+###advLink
 ###banner-top
 ###banner_FixLeft
 ###banner_FixRight
@@ -149,15 +152,19 @@
 ##.content_bot_home
 ##.content_live
 ##.count-down-close-ads
+##.d-ads-l
+##.d-ads-r
 ##.div_banner
 ##.divdatcuoc
 ##.facebook_commnet
+##.fb-comments-out
 ##.fb_chat_content
 ##.flash-yellow
 ##.float-left
 ##.float-right
 ##.fulladImage
 ##.google_ads
+##.group-banner
 ##.heading_ads
 ##.hidden-sm.hidden-xs.live-nav-links.list-unstyled.pull-right
 ##.hideads
@@ -212,6 +219,7 @@
 ##.under-h1 > .inner_header
 ##.under-player
 ##.widget-ads
+##.widget-post-by-cat
 ##[class^="ballon-"]
 ##[class^="float-"]
 ##[href*=".789."]
