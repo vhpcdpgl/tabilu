@@ -279,6 +279,7 @@
 ##div[id^="ad_"]
 ##div[id^="ads_"]
 ##div[id^="adv_"]
+##div[id="branding"]
 ##img[data-src^="https://content.bongda365.vip/images/images/banner/"]
 ##popupEnabled
 .club/ads$image
