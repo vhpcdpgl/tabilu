@@ -324,7 +324,7 @@ sv88.com$third-party
 ||lt38.ru^
 ||mc.webvisor.org^
 ||media.giphy.com/media/$image,domain=thevang.tv|ngoac.tv|thevangtv.com|vaoroi.tv|dabong.net|banthang.live|ibongda.vip|tructiepbongda.vip|bongda365.vip
-||pimpletv.ru/*bet*$image
+||pimpletv.ru/*bet$image
 ||sv88.com^
 ||themoneytizer.com^
 ||trafficdok.com^
