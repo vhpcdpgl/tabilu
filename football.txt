@@ -57,6 +57,9 @@
 ##.BannerStickyLeft_content
 ##.BannerStickyRight
 ##.BannerStickyRight_content
+##.advtop
+##.h-adv-middle
+##.h-mod-adv-r
 ##.a-ads-top-chat
 ##.about_home
 ##.adAboveBottom
