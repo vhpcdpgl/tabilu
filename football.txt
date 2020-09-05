@@ -68,6 +68,9 @@
 ##.adTop
 ##.ad_banners
 ##.ads
+##.ads-bottom
+##.ads-center
+##.ads-web-home-3
 ##.ads-block-warning
 ##.ads-double
 ##.ads-down-nav
