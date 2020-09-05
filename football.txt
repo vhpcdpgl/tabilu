@@ -62,6 +62,7 @@
 ##.adAboveBottom
 ##.adBlowTop
 ##.adBot
+##.adshead
 ##.adLogo
 ##.adLogoBot
 ##.adTop
@@ -75,6 +76,7 @@
 ##.ads-right
 ##.ads-single
 ##.ads-top-nav
+##.adscode
 ##.adsCountdown
 ##.adsInMatch
 ##.adsInPlayer
@@ -278,6 +280,7 @@
 ##div[class^="ads-"]
 ##div[class^="adv_"]
 ##div[class^="adv-"]
+##div[class^="adscode"]
 ##div[id="edrzm1vzh5c"]
 ##div[id^="ad_"]
 ##div[id^="ad-"]
