@@ -199,11 +199,13 @@
 ##.pop-open
 ##.popup-ads-banner
 ##.popup-all
+##.popup-bg
 ##.right-banners
 ##.share-button
 ##.show-ads
 ##.show-ads-banner
 ##.show.fade.modal-backdrop
+##.showpop
 ##.sky_banner1
 ##.sky_banner2
 ##.sosial_share
