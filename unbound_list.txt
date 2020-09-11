@@ -12652,14 +12652,10 @@ local-data: "collection-endpoint-staging.herokuapp.com A 127.0.0.1"
 local-zone: "ad-creatives-public.commondatastorage.googleapis.com" redirect
 local-data: "ad-creatives-public.commondatastorage.googleapis.com A 127.0.0.1"
 #### Gambling section ####
-local-zone: "co.uk" redirect
-local-data: "co.uk A 127.0.0.1"
 local-zone: "r88.vn" redirect
 local-data: "r88.vn A 127.0.0.1"
 local-zone: "x8.vin" redirect
 local-data: "x8.vin A 127.0.0.1"
-local-zone: "com.hk" redirect
-local-data: "com.hk A 127.0.0.1"
 local-zone: "k8.com" redirect
 local-data: "k8.com A 127.0.0.1"
 local-zone: "sun.win" redirect
