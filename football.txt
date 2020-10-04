@@ -78,6 +78,7 @@
 ##.adscountdown
 ##.adsdesktop-header
 ##.adsen_head
+##.adserverrequestsent
 ##.adshead
 ##.adsinmatch
 ##.adsinplayer
@@ -101,6 +102,7 @@
 ##.banner-top-vip
 ##.banner-under-player
 ##.banner-vip
+##.banner^
 ##.banner_top_list
 ##.bannerfixed
 ##.bannerfixedleft
@@ -120,6 +122,8 @@
 ##.bet-now
 ##.bet-odd
 ##.blow_player.box_detail_banner
+##.bnpremium
+##.bnr^
 ##.box-chat
 ##.box-schedule-right
 ##.box-schedule-video_share
@@ -206,6 +210,9 @@
 ##.popup-ads-banner
 ##.popup-all
 ##.popup-bg
+##.prtemp^
+##.prvvid
+##.pubads
 ##.right-banners
 ##.share-button
 ##.show-ads
