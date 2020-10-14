@@ -12740,7 +12740,6 @@ openad.travelnow.com
 openadid.adnxs.com
 openads.friendfinder.com
 openads.org
-openapi.zalo.me
 openbid.pubmatic.com
 openclick.com
 openmarket.com
