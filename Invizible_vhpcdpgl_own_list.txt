@@ -20375,7 +20375,6 @@ zalo-ads-td.zadn.vn
 zalo-ads.mediaz.vn
 zalo-ads.zadn.vn
 zalo-api.zadn.vn
-zalo.me
 zaloapp.ads.zdn.vn
 zaloapp.com
 zaloramy.api.sociaplus.com
