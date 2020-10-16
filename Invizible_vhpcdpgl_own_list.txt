@@ -4911,7 +4911,6 @@ cbslnk.cbsileads.com
 cbx.net
 cc.adserver.yahoo.com
 cc.adspsp.com
-cc.swiftype.com
 cc.sys.intl.xiaomi.com
 cc.sys.miui.com
 cca-fra2.rubiconproject.com
@@ -6463,7 +6462,6 @@ cts.ad.daum.net
 cts.keyword.ad.daum.net
 cts.qwapi.com
 ctx.adsafety.net
-cu.sni.jns.swiftserve.com
 cubics.com
 culturalblog.gumgum.com
 cumbersomecloud.com
