@@ -16556,7 +16556,6 @@ stamp2-azure-ext.newrelic.com
 standards.smaato.com
 standingnest.com
 star-advertising.com
-star-mini.c10r.facebook.com
 starbolt.io
 starffa.com
 start.adpushup.com
