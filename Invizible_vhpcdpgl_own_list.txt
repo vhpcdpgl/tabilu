@@ -9006,7 +9006,6 @@ gpu4001.ds.ev1.inmobi.com
 gr.adnow.com
 gr.adserver.yahoo.com
 gr.playbuzz.com
-grabify.link
 grace.shareaholic.com
 gracefulsock.com
 gracoincandsubs.az1.qualtrics.com
@@ -12728,7 +12727,6 @@ oneclient.sfx.ms
 oneday88.com
 onedmp.com
 oneid.mmstat.com
-onelink.appsflyer.com
 onemboaran.com
 onenetworkdirect.com
 onesignal.com
