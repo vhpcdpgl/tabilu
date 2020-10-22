@@ -11276,7 +11276,6 @@ m.infolinks.com
 m.lkqd.net
 m.madthumbs.com
 m.masoffer.net
-m.me
 m.mobilead.vn
 m.mstorer.net
 m.npeakuy.com
@@ -11754,7 +11753,6 @@ messagenovice.com
 messages.growingio.com
 messaging.insurads.com
 messaging.localytics.com
-messenger.com
 meta.com.vn
 meta.openx.net
 meta.video.qiyi.com
