@@ -306,3 +306,12 @@
 (\.|^)s[0-9]{3}-ava-grp-talk\.zadn\.vn$
 (\.|^)s[0-9]{3}-ava-talk\.zadn\.vn$
 (\.|^)s[0-9]{3}-ava-talk\.zadn\.vn$
+(^|\.).+-zpc\.zdn\.vn$
+(^|\.).+-zpg\.zdn\.vn$
+(^|\.).+talk\.zadn\.vn$
+(\.|^)ads\.livetv[0-9]{3}\.me$
+^zpsocial-.+\.zadn\.vn$
+^zalo.+\.vn$
+^zalo-.+.zadn\.vn$
+^zalo-.+\.zdn\.vn$
+^zalo.+\.vn$
