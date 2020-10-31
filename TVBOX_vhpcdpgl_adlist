@@ -299,7 +299,10 @@
 (\.|^)s160\.avatar\.talk\.zdn\.vn$
 (\.|^)s240-ava-grp-talk\.zadn\.vn$
 (\.|^)s240-ava-talk\.zadn\.vn$
-^zalo*\.vn$
-^zalo-*\.zadn\.vn$
-^zalo-*\.zdn\.vn$
-^zpsocial-*\.zadn\.vn$
+(\.|^)s[0-9]{3}-ava-grp-talk\.zadn\.vn$
+(\.|^)s[0-9]{3}-ava-talk\.zadn\.vn$
+(\.|^)s[0-9]{3}-ava-talk\.zadn\.vn$
+(\.|^)s[0-9]{3}\.avatar\.talk\.zdn\.vn$
+(\.|^)s[0-9]{3}-ava-grp-talk\.zadn\.vn$
+(\.|^)s[0-9]{3}-ava-talk\.zadn\.vn$
+(\.|^)s[0-9]{3}-ava-talk\.zadn\.vn$
