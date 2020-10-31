@@ -307,7 +307,7 @@
 (\.|^)s[0-9]{3}-ava-talk\.zadn\.vn$
 (\.|^)s[0-9]{3}-ava-talk\.zadn\.vn$
 (\.|^)ads\.livetv[0-9]{3}\.me$
-^.+-zp[a-z]{1}\.zdn\.vn$
-^.+talk\.zadn\.vn$
+.+-zp[a-z]{1}\.zdn\.vn$
+.+talk\.zadn\.vn$
 ^zpsocial-.+\.zadn\.vn$
 ^zalo.+\.vn$
