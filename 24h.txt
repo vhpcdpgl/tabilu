@@ -1,3 +1,4 @@
+# Title: 24h blacklist
 #### Danh sách domain quảng cáo thực phẩm chức năng trên 24h.com.vn ####
 #### to be continued... ####
 aciduric.com.vn
@@ -75,6 +76,7 @@ dinhduong.info
 ditieunhieu.com
 dotquynao.com
 dotquynao.com.vn
+dotquynao.info
 dotquynao.vn
 duocphamaau.com
 duocsihaphuong.com
@@ -144,6 +146,7 @@ shopthucphamchucnang.co
 shopthucphamchucnang.com.vn
 sladyvietnam.net
 sodermix.vn
+soithan.vn
 suckhoe360.com.vn
 suckhoebonphuong.pw
 suckhoecong.com
@@ -189,10 +192,12 @@ uricmau.vn
 utai.com.vn
 uxotucung.com.vn
 uxotucung.online
+vaynen.co
 vaynen.vn
 viemdacodia.com.vn
 viemduonghohap.vn
 viemgan.com.vn
+viemhangvidaday.com
 viemloetmieng.com
 viemphoi.vn
 viemquanhrang.com
