@@ -1,5 +1,5 @@
 # Title: vhpcdpgl Popup Ads domains
-# Last modified: 17th JUL 2023
+# Last modified: 18th JUL 2023
 # Source:
 # =====================================================
 # https://bgp.he.net/ip/162.252.21.20#_dns
@@ -6735,10 +6735,6 @@ npufamaclazl.com
 npugpilraku.com
 nryxzaq.com
 nryzasskidu.com
-ns1.intrarezsites.com
-ns1.vacationlodgingnetwork.com
-ns2.intrarezsites.com
-ns2.vacationlodgingnetwork.com
 nsrctjiuvx.com
 ntanufxwio.com
 nubassxkyv.com
