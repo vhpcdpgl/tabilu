@@ -1,5 +1,5 @@
 # Title: vhpcdpgl Popup Ads domains
-# Last modified: 31-JUL-2023
+# Last modified: 24-DEC-2023
 # Source:
 # =====================================================
 # https://bgp.he.net/ip/162.252.21.20#_dns
