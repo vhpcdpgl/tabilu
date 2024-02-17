@@ -9,6 +9,15 @@
 # https://bgp.he.net/ip/162.252.21.24#_dnsrecords
 # https://bgp.he.net/ip/162.252.21.25#_dnsrecords
 # https://bgp.he.net/ip/173.233.137.36#_dnsrecords
+# https://bgp.he.net/ip/162.252.21.37#_dnsrecords
+# https://bgp.he.net/ip/162.252.21.38#_dnsrecords
+# https://bgp.he.net/ip/162.252.21.39#_dnsrecords
+# https://bgp.he.net/ip/162.252.21.40#_dnsrecords
+# https://bgp.he.net/ip/162.252.21.41#_dnsrecords
+# https://bgp.he.net/ip/162.252.21.42#_dnsrecords
+# https://bgp.he.net/ip/162.252.21.43#_dnsrecords
+# https://bgp.he.net/ip/162.252.21.44#_dnsrecords
+# https://bgp.he.net/ip/162.252.21.45#_dnsrecords
 # https://bgp.he.net/ip/173.233.137.44#_dnsrecords
 # https://bgp.he.net/ip/173.233.137.52#_dnsrecords
 # https://bgp.he.net/ip/173.233.137.60#_dnsrecords
