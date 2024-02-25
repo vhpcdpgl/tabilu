@@ -1,5 +1,5 @@
 # Title: vhpcdpgl Popup Ads domains
-# Last modified: 17-FEB-2024
+# Last modified: 25-FEB-2024
 # Source:
 # =====================================================
 # https://bgp.he.net/ip/162.252.21.20#_dnsrecords
@@ -17,6 +17,11 @@
 # https://bgp.he.net/ip/162.252.21.43#_dnsrecords
 # https://bgp.he.net/ip/162.252.21.44#_dnsrecords
 # https://bgp.he.net/ip/162.252.21.45#_dnsrecords
+# https://bgp.he.net/ip/172.240.108.68#_dnsrecords
+# https://bgp.he.net/ip/172.240.108.76#_dnsrecords
+# https://bgp.he.net/ip/172.240.108.84#_dnsrecords
+# https://bgp.he.net/ip/172.240.108.92#_dnsrecords
+# https://bgp.he.net/ip/172.240.253.132#_dnsrecords
 # https://bgp.he.net/ip/173.233.137.36#_dnsrecords
 # https://bgp.he.net/ip/173.233.137.44#_dnsrecords
 # https://bgp.he.net/ip/173.233.137.52#_dnsrecords
@@ -642,6 +647,7 @@ alkylicconed.store
 alkylichauyne.digital
 all2cnjuh34jb.com
 allayravage.com
+allayselect.com
 allegationhamperexit.com
 allegianceenableselfish.com
 alleleoctagon.life
@@ -1036,6 +1042,7 @@ archbishopsheettwitter.com
 archeswethers.live
 archgrotesqueiso.com
 archiecheekydecline.com
+archipelagopreviously.com
 architectwithdraw.com
 archseebloated.com
 archspytagmeme.guru
@@ -1457,6 +1464,7 @@ b73uszzq3g9h.com
 b7om8bdayac6at.com
 b8pfulzbyj7h.com
 baaomenaltho.com
+babblelessenairline.com
 babssata.com
 babyboomboomads.com
 babyniceshark.com
@@ -1596,6 +1604,7 @@ barotodazes.com
 barotsetarente.com
 barracksconcernedseaman.com
 barrelhonestlypublicity.com
+barrenmeritnot.com
 barrettshauwe.com
 barriercereals.com
 barringjello.com
@@ -1803,6 +1812,7 @@ besaieltense.com
 beseechaircraftorange.com
 beseechpill.com
 besetadvocacystrap.com
+besetregulaterome.com
 beshellspitous.com
 beshoutsum.store
 besighcaman.com
@@ -1882,6 +1892,7 @@ bilgerak.com
 bilingualfestive.com
 bilkedsquit.com
 billetyiwis.digital
+billiardsseasick.com
 billservingineffective.com
 billydropfarther.com
 bindingguessingconfessed.com
@@ -2086,6 +2097,7 @@ bondfondif.com
 bondleapedoasis.com
 bondochuns.guru
 bondprodtrue.com
+bonebrick.com
 bonecommittee.com
 boneporridge.com
 bonesinoffensivebook.com
@@ -2134,6 +2146,7 @@ bornrefreshmentheater.com
 borofez.com
 borreldamsels.digital
 borrowdefeat.com
+borrowinghey.com
 borrowmarmotforester.com
 bosjamb.space
 bossageagree.com
@@ -2174,6 +2187,7 @@ boxofficehelping.com
 boxofficeliterally.com
 boxofwhisper.com
 boxtreelaissez.guru
+boycottcandle.com
 boygcranage.com
 boyishdefend.com
 boyishdetrimental.com
@@ -2571,6 +2585,7 @@ capawhile.com
 capeantiquariandecision.com
 capeplannails.com
 caperedlevi.com
+capitalistblotbits.com
 cappuccinoeliza.com
 capricedes.com
 capricetheme.com
@@ -2669,6 +2684,7 @@ catastropheillusive.com
 catchyannual.com
 catererautobiographyinvited.com
 catgride.com
+catholiccommandment.com
 catholicdikefraudulent.com
 catmellowinaudible.com
 catmustyhypothesis.com
@@ -2683,6 +2699,7 @@ cauchoforegut.space
 caulibotas.com
 caulifloweraircraft.com
 cauliflowerpointlessebb.com
+cauliflowersablewarn.com
 caunuscoagel.com
 causeyoubusywithlife.com
 causingalapa.com
@@ -2793,6 +2810,7 @@ chalondeacons.com
 chalonebutyls.guru
 chamarwhisted.digital
 chambersthanweed.com
+champagneuniteexasperation.com
 champaup.com
 champedhyps.com
 chancellorharrowbelieving.com
@@ -2800,6 +2818,7 @@ chancypianist.store
 chandlersubsequently.com
 chandoowitumki.guru
 chandrywud.uno
+changesretirereality.com
 changesshortly.com
 channeldonationprostitute.com
 channelgardeningplaster.com
@@ -3315,6 +3334,7 @@ compatiblepullcork.com
 compatriotelephant.com
 compearbravoes.store
 compelgraduation.com
+compellingnautical.com
 compensationpropulsion.com
 competencecondolejug.com
 competentminorvex.com
@@ -3354,6 +3374,7 @@ compulsionspotsbeacon.com
 compulsiveeffectuallyrotate.com
 compulsiveincline.com
 compulsivepoemoperative.com
+computegoggleorbit.com
 comradeattend.com
 comradeawe.com
 comradecrumblehari.com
@@ -3464,6 +3485,7 @@ constitutekidnapping.com
 constitutestep.com
 constraintspectaclecabin.com
 constrictbuzz.com
+constrictwarrior.com
 constructcowardlysurface.com
 constructdrankconcentration.com
 constructionabyss.com
@@ -3589,6 +3611,7 @@ corpulentoverdoselucius.com
 corpulentrubber.com
 corpulentsuitcases.com
 correctcitolas.com
+correlationbroadcastgerman.com
 correspondimpulsive.com
 correspondingcamouflage.com
 corrivethe.website
@@ -4221,6 +4244,7 @@ denounceburialbrow.com
 densityprideincentive.com
 dentesbromios.live
 dentfonttechnology.com
+dentistchalk.com
 denunciationinterior.com
 denyingdry.com
 denyingstark.com
@@ -4322,6 +4346,7 @@ devotedfootprintsinterstate.com
 devoterornis.com
 devotesquinua.com
 dewcommode.space
+dewdimness.com
 dewiestrockman.uno
 dewilyunhands.space
 dewincubiatoll.com
@@ -4370,6 +4395,7 @@ dictionpeptics.life
 dictiontajik.com
 dictseconal.com
 didiessyrt.com
+didpebbletouchdown.com
 didpicoqwruf.com
 didrigrigo.com
 diealliedlocked.com
@@ -4511,6 +4537,7 @@ disingenuousdismissed.com
 disingenuousfortunately.com
 disingenuoussuccessfulformal.com
 disinheritcondescending.com
+disintegrateneedleglum.com
 disintegrateunlucky.com
 disknowmongo.website
 disloyalmeddling.com
@@ -4537,6 +4564,7 @@ displeaseditchy.com
 displeasurepigeons.com
 disposalsirbloodless.com
 disposedbureaucracy.com
+disposedmistaken.com
 dispositiondata.com
 disproveknob.com
 disputeretorted.com
@@ -4583,6 +4611,7 @@ ditasmaced.com
 divedfaraway.com
 divergepervert.com
 diversecrashconcern.com
+diversesubjected.com
 diversityspaceship.com
 divesgodroon.life
 dividedching.com
@@ -4702,6 +4731,7 @@ dovemajorem.com
 dovergardensuites.net
 doweryacreak.website
 downrighteat.com
+downythreshold.com
 dowppimps.life
 dowseskelia.website
 dowtyler.com
@@ -5200,6 +5230,7 @@ ensurescammanly.com
 entailofficeveneering.com
 entailresponded.com
 entangledapproximatetaping.com
+entangleinterferebankrupt.com
 entereddebt.com
 enteringimposter.com
 enterpriseheroic.com
@@ -5423,6 +5454,7 @@ exoprsdds.com
 exopthassar.com
 expandinghum.com
 expandremittance.com
+expandwash.com
 expectedballpaul.com
 expedientabnormaldeceased.com
 expelsleeken.website
@@ -5481,6 +5513,7 @@ exwotics6heomrthaoi4r.com
 eyebrowsasperitygarret.com
 eyebrowscrambledlater.com
 eyebrowsneardual.com
+eyebrowsperspireenemy.com
 eyedparli.live
 eyepreystare.com
 eyeshadowclayindulgence.com
@@ -5555,6 +5588,7 @@ fairfaxgeorgianayourself.com
 fairlyleadingenquiry.com
 fairlystud.com
 fairnesschangingenamel.com
+fairygraduatecrow.com
 fairytaleleapt.com
 faithcollarhook.com
 faithfullistenedpurposes.com
@@ -5811,6 +5845,7 @@ fireworkswad.com
 firkedpace.life
 firmingpanung.live
 firmlychurchyard.com
+firstpasswords.com
 firstverifyemigrant.com
 fiscalschassed.life
 fiscalusing.com
@@ -5862,6 +5897,7 @@ flarebania.com
 flashesmouches.store
 flashlightsstrawberry.com
 flatbedcouthy.space
+flatdisagreement.com
 flatepicbats.com
 flatlyforensics.com
 flatlywireless.com
@@ -5919,6 +5955,7 @@ flowerbeddollsbellow.com
 flubsmeature.com
 fluemantappall.guru
 fluencydepressing.com
+fluentfixing.com
 fluentlydeadlineski.com
 fluffredelay.com
 fluffycodepotc.com
@@ -6002,6 +6039,7 @@ foregogabbro.life
 foreigndelusional.com
 forelegarchean.top
 foremostcheerful.com
+forensicfaces.com
 forensicscome.com
 foresawmartins.com
 forestcremate.com
@@ -6092,6 +6130,7 @@ frailshootingexamination.com
 fraisestoits.live
 framestighterauthorize.com
 frameworkdeserve.com
+frameworknephew.com
 francisunbeget.com
 franklyatmosphericanniversary.com
 franklycommission.com
@@ -6469,6 +6508,7 @@ girliegurgle.com
 girliewinding.com
 giroxxha.com
 girsescrawk.website
+gisttoward.com
 giulioarugola.com
 giuntatrub.website
 givenconserve.com
@@ -7070,6 +7110,8 @@ hectorzags.com
 hedgehogexquisitechess.com
 hedgehoghugsyou.com
 hedgehogpoachsay.com
+hedgerectangle.com
+hedwigmonday.com
 heedsbedeaf.guru
 heelseparateddistinguished.com
 heextending.com
@@ -7444,6 +7486,7 @@ hungryrise.com
 hungryspeedythorough.com
 hunkiesdibbing.guru
 hunlikeswanned.digital
+huntingwhipbaking.com
 huntunworthy.com
 huppahshoras.com
 huppontic.com
@@ -7795,6 +7838,7 @@ initialbanisters.com
 initiallycoffee.com
 initiallycompetitionunderwear.com
 initiallydoze.com
+initiallystarling.com
 initiatebuffetstump.com
 initiatedeliveringyesterday.com
 initiativebasisparticularly.com
@@ -7830,12 +7874,14 @@ inquiryclank.com
 inrolltubboe.website
 insanemighthorrified.com
 insanitynapoleon.com
+insanityquietlyviolent.com
 inscriptionafford.com
 inscriptionharm.com
 insectclothe.com
 insectsmanners.com
 inseerwyting.digital
 insensiblebehave.com
+insensibleconjecturefirm.com
 insensitiveintegertransactions.com
 inseparablelunchwasted.com
 insertfend.com
@@ -8064,6 +8110,7 @@ jafxirkamolt.com
 jaggedeconomicregional.com
 jaggedunaccustomeddime.com
 jaggiertridii.com
+jaguarparent.com
 jailabridge.com
 jailershowmen.com
 jakescribble.com
@@ -8605,6 +8652,7 @@ lacemanimbiber.com
 laceratecoast.com
 lacertfeedlot.com
 lacertrotter.com
+lackdealervisitor.com
 lackgoodwillmagnet.com
 lacquerreddeform.com
 laddersquirrelundoubtedly.com
@@ -8783,6 +8831,7 @@ legendsmaestri.com
 leggraduate.com
 leggygagbighearted.com
 leginsi2leopard1oviy1hf.com
+legislationfervidlaxative.com
 legroomhopbush.digital
 leisureinhibitdepartment.com
 leisurelypizzascarlet.com
@@ -9036,6 +9085,7 @@ longcarpet.tech
 longerbuttonamendment.com
 longerpsychid.store
 longestnetter.com
+longestpeaceablecattle.com
 longestwaileddeadlock.com
 longingarsonistexemplify.com
 lonreddone.com
@@ -9317,6 +9367,7 @@ mamomgltilm.com
 mamparagallnut.com
 mamzifazsa.com
 man2ch5836dester.com
+managementhans.com
 mananasfleme.live
 manconohoch.guru
 manconsider.com
@@ -9486,6 +9537,7 @@ mcylzynw.com
 mcymumqmaagp.com
 mcynwiasvct.com
 me9qgidaa.com
+meadowdocumentcaprizecaprize.com
 mealiertins.com
 mealscorsac.digital
 meanspowersmotives.com
@@ -9536,8 +9588,10 @@ menderballism.life
 menlithium.com
 mensingpumice.space
 mentalfuzzy.com
+mentallyarduous.com
 mentallyissue.com
 mentionedrubbing.com
+mentionintellect.com
 menuoverridemotherhood.com
 menyglory.space
 meo257na3rch.com
@@ -10102,6 +10156,7 @@ nebpluteal.digital
 nebulouslostpremium.com
 necessaryescort.com
 necessaryinborn.com
+necessaryweeklydetected.com
 necessityalternativebigot.com
 nectardoodled.com
 nedestablish.com
@@ -10573,6 +10628,7 @@ oilwellcuprene.com
 oinkedbowls.com
 ointmentaloofpincers.com
 ointmentapathetic.com
+ointmentbarely.com
 ointmenthind.com
 ojfxjdiusut.com
 ojgabhavrxub.com
@@ -11221,6 +11277,7 @@ peacockdienook.com
 peacocktypewriter.com
 peakchewing.com
 peakluckily.com
+peakoverdue.com
 pealiophd.com
 pealmeditate.com
 peanutsurrogatesurrogate.com
@@ -11403,6 +11460,7 @@ phloemsaguilt.website
 phlomisthuluth.digital
 phloxsub73ulata.com
 phocidabioses.store
+phonehalfmoonwild.com
 phonosoutlimn.life
 phoridsanely.space
 phosphateawaittease.com
@@ -12485,6 +12543,7 @@ recordingperky.com
 recordstunradioactive.com
 recoupsamakebe.com
 recruitburp.com
+recruitcashier.com
 recruitresidebitterness.com
 rectificationnervous.com
 rectorsrevolt.guru
@@ -12529,6 +12588,7 @@ referredscarletinward.com
 refetchobconic.guru
 refightinlaces.store
 refilednisi.com
+refillmompickpocket.com
 reflectingscoopcourse.com
 reflectionvalleyscautious.com
 reflexupsethorseman.com
@@ -12619,6 +12679,7 @@ remedyeloise.com
 remembercompetitioninexplicable.com
 rememberdeterminedmerger.com
 reminderdate.com
+reminderlaweverything.com
 remintsmuggy.com
 remisspig.com
 remoldsephah.com
@@ -12628,6 +12689,7 @@ renaissancealoof.com
 renaissancewednesday.com
 renamedanarya.guru
 renamedineffective.com
+renamedtombpaying.com
 rendimportinaugurate.com
 renewalsuspiciousrattle.com
 renigtoryess.digital
@@ -12656,6 +12718,7 @@ replacestuntissue.com
 reposemarshknot.com
 reposesyaffil.live
 representativerepellentbob.com
+reproducegarnishaudition.com
 reproductiontape.com
 reproofdiningiris.com
 repsrowedpay.com
@@ -12702,6 +12765,7 @@ resourcescleopatra.com
 resownmaills.uno
 respeakmiskin.uno
 respectablecharacteristicrider.com
+respectedclinkplanets.com
 respectfullyalternate.com
 respectfulpleaabsolve.com
 respectiveruffle.com
@@ -13125,6 +13189,7 @@ salivanmobster.com
 salloohoelike.website
 sallowyelapine.guru
 sallyoxenstops.com
+sallytendencyvoting.com
 salsadistune.digital
 saltantpipped.live
 saltarydoolie.digital
@@ -13308,6 +13373,7 @@ scuteclarre.uno
 scutesneatest.com
 scyphicoprah.store
 scythealready.com
+scythepailhepatitis.com
 sdasasyydd.com
 sdbvveonb1.com
 sdhfbvd.com
@@ -14113,6 +14179,7 @@ spymislead.com
 sqdhuktnor.com
 squaremagician.com
 squatdisloyal.com
+squeaktransformation.com
 squeezesharedman.com
 squinbested.com
 squineeyuck.com
@@ -14325,6 +14392,7 @@ stuffedstudy.com
 stugsoda.com
 stumbleaugmentlistless.com
 stumercackles.com
+stunningodour.com
 stunsbarbola.website
 stunthedge.com
 stupidityficklecapability.com
@@ -14437,6 +14505,7 @@ supperpoliticallybeagle.com
 supplantrivulet.com
 suppliedhopelesspredestination.com
 supplyrefereesneeze.com
+supplywrangle.com
 supportedpantry.com
 supportivelosing.com
 supposereduction.com
